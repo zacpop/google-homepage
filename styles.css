@@ -1,0 +1,56 @@
+/* -----------------------------------
+Author: Zac Popiez
+Date: 
+
+Notes:
+
+
+Colour Palette:
+--------------
+
+
+
+
+-------------------------------------- */
+
+
+/* General */
+
+-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+
+
+/* Typography */
+
+
+
+/* Header */
+
+
+
+/* Hero */
+
+
+
+/* (Container Name) */
+
+
+
+/* (Container Name) */
+
+
+/* Footer */
+
+
+
+/* Force Elements to Self Clear its Children: http://css-tricks.com/snippets/css/clear-fix/ */
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+	}
+* html .group             { zoom: 1; } /* IE6 */
+*:first-child+html .group { zoom: 1; } /* IE7 */
