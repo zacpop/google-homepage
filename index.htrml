@@ -13,7 +13,7 @@
 		
 		
 		<!-- Normalize to clean up & standardize the browser default styles: http://necolas.github.io/normalize.css/ -->
-		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="normalize.css">
 		
 		<!-- Custom CSS -->
 		<link href="styles.css" rel="stylesheet">
